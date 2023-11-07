@@ -1,16 +1,3 @@
-# assignment_submitted_by_sachinmall
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is based on Bike Rental.
+This is not Full app it just UI.
+![WhatsApp-Image-2023-11-07-at-720](https://github.com/SachinMall/bike_rental_ui_assignment/assets/137764841/fdc2d1b0-5a3d-4ef2-853b-c1beb6cebd2e)
